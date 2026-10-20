@@ -1,0 +1,12 @@
+
+order_id,order_date,product,quantity,unit_price,status
+ORD001,2026-10-01,T-Shirt,2,800,delivered
+ORD002,2026-10-01,Hoodie,1,1500,delivered
+ORD003,2026-10-02,T-Shirt,1,800,placed
+ORD004,2026-10-02,Hoodie,2,1500,cancelled
+ORD005,2026-10-03,T-Shirt,3,800,delivered
+ORD006,2026-10-03,Cap,2,400,rto
+ORD007,2026-10-04,Hoodie,1,1500,returned
+ORD008,2026-10-04,T-Shirt,1,800,delivered
+ORD009,2026-10-05,Cap,1,400,delivered
+ORD010,2026-10-05,Hoodie,2,1500,placed

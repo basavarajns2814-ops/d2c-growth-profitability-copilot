@@ -1,0 +1,7 @@
+# Dashboard dependencies
+pandas==3.0.6
+plotly==7.1.0
+streamlit==1.66.0
+
+# Test dependency
+pytest==9.1.1

@@ -1,0 +1,25 @@
+# Python environments and generated files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local environment variables, credentials, and private keys
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+*.secret
+*.pem
+*.key
+*.p12
+
+# Temporary and local machine files
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db

@@ -1,0 +1,6 @@
+
+order_id,order_date,product,quantity,unit_price,status
+BAD001,2026-10-06,T-Shirt,1,800,delivered
+BAD001,2026-10-06,Hoodie,0,1500,shipped
+BAD003,2026-10-07,,2,400,rto
+BAD004,2026-10-08,Cap,abc,400,delivered
